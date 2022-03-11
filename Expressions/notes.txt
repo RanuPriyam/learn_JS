@@ -1,0 +1,13 @@
+Expressions are the units of the code that can be evaluated and resolved to a value.
+Expressions in JS can be divided into categories
+
+1) Arithmetic Expressions
+2) String Expressions
+3) Primary Expressions
+4) Array and Object initializers Expressions
+5) Logical Expressions
+6) Lef hand side Expressions
+7) Property Access Expressions
+8) Object creation Expressions
+9) Function definition Expressions
+10) Invocative Expressions
