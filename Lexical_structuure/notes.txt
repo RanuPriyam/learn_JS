@@ -1,6 +1,0 @@
-1) JS is unicode
-2) Semicolons are not mandatory
-3) White spaces are not considered mandatory, we can use the whitespace to format the code in any way we want
-4) JS is case sensitive
-5) It has literals and Identifiers
-6) Reserved words can't be used as Identifiers.
